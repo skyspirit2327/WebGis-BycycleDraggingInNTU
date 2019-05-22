@@ -1,0 +1,642 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536752923978,25.0123857294559 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536835506643,25.0131833487734 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536630479621,25.0127149347006 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536199531963,25.0130669784323 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536309268867,25.0129119990589 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536895856885,25.0127691504094 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536559775989,25.0126076797919 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536278644826,25.0123591701362 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536702673132,25.013131008959 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536823834751,25.0123072280187 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536305321492,25.0129511943482 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536821796874,25.0124775720906 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536318251249,25.0130833084647 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53655295407,25.0128681925486 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536770087794,25.0125059446713 ]
+    },
+    "properties": {
+    "Datee":"2017-12-05",
+    "Timee":"10:30:00",
+    "Location":"二活",
+    "Date_time":"2017-12-05 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534735623402,25.0182634717335 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534765258413,25.0181301491727 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534741575571,25.0182758118081 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534714451537,25.0181096879204 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534725463951,25.0179769148354 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534738819724,25.0180100187579 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534718768759,25.0181720511053 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534689964153,25.0177965573392 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534747763869,25.018019606748 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"人類",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538640245265,25.0175996635039 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538859163409,25.0176385222766 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53887328493,25.0176233330352 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538385675417,25.0176293611092 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.537807715851,25.017666916832 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538371509739,25.0176396272902 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.537816480505,25.0176140546654 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538872454353,25.0176071140895 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538309641399,25.0176521872435 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.537670747048,25.0176042831952 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538128689521,25.017649235373 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538003298936,25.0176064659552 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.537956772313,25.0176621492894 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538220586621,25.0176272497381 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538161186621,25.0176424895234 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538489933369,25.0176152269264 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.537753092944,25.0176028083516 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.537747181352,25.0176628916839 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538506191802,25.0176586603085 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538741147417,25.0176004377159 ]
+    },
+    "properties": {
+    "Datee":"2017-10-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-10-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53789315994,25.0176597251466 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538308195831,25.0176593103261 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538647596018,25.017647150298 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.537929417018,25.0176257753453 ]
+    },
+    "properties": {
+    "Datee":"2017-11-29",
+    "Timee":"10:30:00",
+    "Location":"土木",
+    "Date_time":"2017-11-29 10:30:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.538383,25.017615 ]
+    },
+    "properties": {
+    "Datee":"2017-11-16",
+    "Timee":"10:30:00",
+    "Location":"土木系",
+    "Date_time":"2017-11-16 10:30:00"
+    }
+  }
+]
+}
